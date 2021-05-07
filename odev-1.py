@@ -5,8 +5,13 @@ else:
     print(x," değeri tek sayıdır")
 
 #-------------------------------------------------------------------------------
+
+
 sayılar=[]
+
+
 hak=5
+
 for i in range(0,hak):
     x=int(input("Lütfen bir sayi giriniz:"))
     sayılar.append(x)
